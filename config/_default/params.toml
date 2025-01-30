@@ -149,7 +149,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # enableTrackEvent = true
 
 [buymeacoffee]
-   identifier = "ko-fi.com/jamesmwangi59"
+   identifier = "jameshmwangi"
    globalWidget = true
    globalWidgetMessage = "Support my work"
    globalWidgetColor = "#FFDD00"
