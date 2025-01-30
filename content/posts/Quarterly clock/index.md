@@ -22,7 +22,7 @@ You can also break down the year into
 1. Sept - Dec    (September , October, November, and December )
 
 
-This oath to master seasons is echoedthrough a very popular fable . The African fable tells of a carefree grasshopper 🦗 that neglected to save food during plentiful times. Meanwhile, its neighbors, the ants 🐜, worked  to harvest  supplies for the drought season. When the dry season  arrived, the ants had plenty of food while the grasshopper struggled.  What's the lesson from the fable? Prepare for bad seasons during the good ones.  
+This oath to master seasons is echoed through a very popular fable . The African fable tells of a carefree grasshopper 🦗 that neglected to save food during plentiful times. Meanwhile, its neighbors, the ants 🐜, worked  to harvest  supplies for the drought season. When the dry season  arrived, the ants had plenty of food while the grasshopper struggled.  What's the lesson from the fable? Prepare for bad seasons during the good ones.  
 
 ![](https://beta.appflowy.cloud/api/file_storage/0512efd9-7468-4c2e-b38d-422de1376f7f/v1/blob/a0f01974%2Dfe46%2D4995%2D8225%2D0abd4db71bbf/A8rwTQmcaRKwT8PKjbkbtKC1Lth2YptfFBL_sEZpaOg=.png)
 
