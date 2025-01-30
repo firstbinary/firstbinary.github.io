@@ -9,7 +9,17 @@
     <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
     <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi K</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Master the Quartely Clock</title>
+      <link>http://localhost:1313/posts/quarterly-clock/master_the_quartely_clock._understand_the_seasons_/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/quarterly-clock/master_the_quartely_clock._understand_the_seasons_/</guid>
+      <description>Networking article series</description>
+      
+    </item>
     
     <item>
       <title>Network Traffic Analysis</title>
@@ -49,26 +59,6 @@
       <guid>http://localhost:1313/posts/aws-key/</guid>
       <description>Cloud security strategy article series</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-key/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>AWS Key Management Implementation</title>
-      <link>http://localhost:1313/posts/sample-copy/2024-08-20-aws-key-management-implementation/</link>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/posts/sample-copy/2024-08-20-aws-key-management-implementation/</guid>
-      <description>Cloud security strategy article series</description>
-      
-    </item>
-    
-    <item>
-      <title>AWS Key Management Implementation</title>
-      <link>http://localhost:1313/posts/sample/2024-08-20-aws-key-management-implementation/</link>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/posts/sample/2024-08-20-aws-key-management-implementation/</guid>
-      <description>Cloud security strategy article series</description>
-      
     </item>
     
   </channel>
