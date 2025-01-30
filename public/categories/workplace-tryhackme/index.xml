@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workplace TryHackMe on Board and Secretarial</title>
+    <link>http://localhost:1313/journal/categories/workplace-tryhackme/</link>
+    <description>Recent content in Workplace TryHackMe on Board and Secretarial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>info@boardandsecretarial.co.ke (Board and Secretarial)</managingEditor>
+    <webMaster>info@boardandsecretarial.co.ke (Board and Secretarial)</webMaster>
+    <copyright>&amp;copy; 2025 Board and Secretarial</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/journal/categories/workplace-tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gadget Policy in Meetings</title>
+      <link>http://localhost:1313/journal/posts/gadgetpolicy/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>info@boardandsecretarial.co.ke (Board and Secretarial)</author>
+      <guid>http://localhost:1313/journal/posts/gadgetpolicy/</guid>
+      <description>Digital Starategy in Governance article series</description>
+      
+    </item>
+    
+  </channel>
+</rss>

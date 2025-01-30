@@ -1,0 +1,32 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "J.Mwangi Cybersecurity"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/bnslogo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "An informative oasis , full of cyber security lab walktrough!"
+  copyright = "&copy; 2025 James Mwangi K" 
+
+ [params.author]
+   name = "James Mwangi K"
+   email = "jamesmwang1@proton.me"
+   image = "img/bnslogo.png"
+   imageQuality = 96
+   # headline = "Streamline Your Operations with Confidence"
+   bio = "A cyber security reports publication website | Info Sec | Blogging | Security Awareness |"
+  links = [
+     { email = "jamesmwang1@proton.me" },
+     { github = "https://github.com/jameshmwangi" },
+     { linkedin = "https://www.linkedin.com/jamesh-mwangi" },     
+     { twitter = "https://twitter.com/username" },
+     { x-twitter = "https://twitter.com/jameshqater" },
+     { ko-fi = "https://ko-fi.com/jamesmwangi59" },
+
+   ]
