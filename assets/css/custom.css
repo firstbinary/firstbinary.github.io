@@ -1,0 +1,17 @@
+/* Accessible medium font sizes */
+.article-content {
+    font-size: 1.125rem; /* 18px (ideal for accessibility) */
+    line-height: 1.75; /* Minimum 1.5 line spacing for readability */
+    color: #333;
+  
+}
+  
+  /* Accessible heading hierarchy (using relative units) */
+  .article-content h2 { font-size: 1.5em; } /* ~27px (1.125rem × 1.5) */
+  .article-content h3 { font-size: 1.25em; } /* ~22.5px */
+  .article-content h4 { font-size: 1.125em; } /* ~20.25px */
+
+  /* Focus states */
+*:focus {
+    outline: 3px solid #0066cc;
+  }
