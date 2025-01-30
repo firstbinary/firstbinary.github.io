@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaboration on J.Mwangi Cybersecurity</title>
+    <link>http://localhost:1313/tags/collaboration/</link>
+    <description>Recent content in Collaboration on J.Mwangi Cybersecurity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
+    <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
+    <copyright>&amp;copy; 2025 James Mwangi K</copyright>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open-Source AI Writing Assistant: Bridging Language Gaps in Professional Communication</title>
+      <link>http://localhost:1313/posts/open-source-english-writing-ai-assistant/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/open-source-english-writing-ai-assistant/</guid>
+      <description>Discover how open-source AI writing assistants empower non-native English speakers to communicate effectively in global workplaces. Learn how these tools enhance clarity, reduce misunderstandings, and foster collaboration by leveraging advanced language processing and community-driven improvements.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/open-source-english-writing-ai-assistant/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
