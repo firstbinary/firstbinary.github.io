@@ -56,7 +56,7 @@ The description is optional. Click Next.
 
 Define key administrative permissions (Step 3)
 
-To allow users to perform encryption and decryption, I have to assign key permissions to them on the Define key administrative permissions page. Permit the user created in the previous lab to use the kenya-one-key by selecting the checkbox near the user. Here, we have selected the user kenya-one we created in the previous lab. Click on Next to continue.
+To allow users to perform encryption and decryption, I have to assign key permissions to them on the Define key administrative permissions page. Permit the user created in the previous lab to use the kenya-one-key by selecting the checkbox near the user. Here, we have selected the user kenya-one we created in the previous lab. Click on "Next" to continue.
 
 [![image19.png](https://i.postimg.cc/QCDQk5Ns/image19.png)](https://postimg.cc/ftHSMV0g)
 
