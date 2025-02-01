@@ -1,6 +1,12 @@
-﻿Week 8: Azure Firewall![ref1]
-
-Report by: James Mwangi, CS-CNS06-24074![ref1]
+﻿---
+title: "Hands-On Lab: Deploying and Configuring Azure Firewall for Network Security"  
+description: "Step-by-step guide to deploying Azure Firewall, configuring network/application rules, and validating secure traffic flow in Azure Virtual Networks."  
+date: 2025-02-01  
+draft: false  
+summary: "A technical walkthrough of Azure Firewall implementation, covering route configuration, DNS management, and firewall rule validation. Demonstrates traffic control between subnets and compliance testing using real-world security scenarios."  
+tags: [Azure-Firewall, Network-Security, Cloud-Infrastructure, Traffic-Routing]  
+categories: [Cloud Security, Azure Labs, Network Administration]  
+---
 
 **Introduction**
 
