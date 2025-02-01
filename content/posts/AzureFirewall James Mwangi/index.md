@@ -1,5 +1,5 @@
 ﻿---
-title: "Hands-On Lab: Deploying and Configuring Azure Firewall for Network Security"  
+title: "Configuring Azure Firewall for Network Security"  
 description: "Step-by-step guide to deploying Azure Firewall, configuring network/application rules, and validating secure traffic flow in Azure Virtual Networks."  
 date: 2025-02-01  
 draft: false  
