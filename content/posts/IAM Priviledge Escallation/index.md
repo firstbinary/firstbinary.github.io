@@ -1,7 +1,7 @@
 ---
 title: "IAM Privilege Escalation via Policy Rollback"  
 description: "A hands-on walkthrough of exploiting AWS IAM policy version rollbacks to achieve privilege escalation using CloudGoat, demonstrating critical cloud security vulnerabilities and mitigation strategies."  
-date: 2025-01-30  
+date: 2025-02-05  
 draft: false  
 summary: "Explore how attackers exploit IAM policy rollbacks to gain administrative access in AWS environments. This CloudGoat scenario demonstrates privilege escalation techniques, policy version analysis, and critical cloud security hardening practices."  
 tags: [AWS-IAM, CloudGoat, Privilege-Escalation, Cloud-Security, Policy-Management, Cybersecurity, AWS-CLI, Access-Control]  
