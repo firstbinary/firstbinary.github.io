@@ -9,16 +9,46 @@
     <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
     <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi K</copyright>
-    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>AI Writing Assistant: Bridging Language Gaps in Professional Communication</title>
-      <link>http://localhost:1313/posts/open-source-english-writing-ai-assistant/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Use Wireshark to View Network Traffic</title>
+      <link>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/posts/open-source-english-writing-ai-assistant/</guid>
-      <description>Discover how open-source AI writing assistants empower non-native English speakers to communicate effectively in global workplaces. Learn how these tools enhance clarity, reduce misunderstandings, and foster collaboration by leveraging advanced language processing and community-driven improvements.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/open-source-english-writing-ai-assistant/featured.png" />
+      <guid>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</guid>
+      <description>Step-by-step tutorial on using Wireshark for network analysis. Capture ICMP packets, compare local and remote traffic behavior, and explore Layer 2/Layer 3 addressing in practical scenarios.</description>
+      
+    </item>
+    
+    <item>
+      <title>Navigating Global Data Protection Compliance: Frameworks, Regulations, and Implementation Strategies</title>
+      <link>http://localhost:1313/posts/data-protection/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/data-protection/</guid>
+      <description>Explore essential data protection regulations including GDPR, HIPAA, PCI DSS, and Kenya&amp;rsquo;s Data Protection Act. Learn compliance strategies, sector-specific requirements, and legal considerations for penetration testing and audits.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/data-protection/featured.png" />
+    </item>
+    
+    <item>
+      <title>IAM Privilege Escalation via Policy Rollback</title>
+      <link>http://localhost:1313/posts/iam-priviledge-escallation/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/iam-priviledge-escallation/</guid>
+      <description>Explore how attackers exploit IAM policy rollbacks to gain administrative access in AWS environments. This CloudGoat scenario demonstrates privilege escalation techniques, policy version analysis, and critical cloud security hardening practices.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/iam-priviledge-escallation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Configuring Azure Firewall for Network Security</title>
+      <link>http://localhost:1313/posts/azurefirewall-james-mwangi/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/azurefirewall-james-mwangi/</guid>
+      <description>A technical walkthrough of Azure Firewall implementation, covering route configuration, DNS management, and firewall rule validation. Demonstrates traffic control between subnets and compliance testing using real-world security scenarios.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/azurefirewall-james-mwangi/featured.png" />
     </item>
     
     <item>

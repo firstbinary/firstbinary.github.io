@@ -9,14 +9,274 @@
     <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
     <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi K</copyright>
-    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Collaboration</title>
-      <link>http://localhost:1313/tags/collaboration/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <title>ARP</title>
+      <link>http://localhost:1313/tags/arp/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/tags/collaboration/</guid>
+      <guid>http://localhost:1313/tags/arp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ICMP</title>
+      <link>http://localhost:1313/tags/icmp/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/icmp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MAC-Address</title>
+      <link>http://localhost:1313/tags/mac-address/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/mac-address/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Network-Analysis</title>
+      <link>http://localhost:1313/tags/network-analysis/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/network-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Packet-Sniffing</title>
+      <link>http://localhost:1313/tags/packet-sniffing/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/packet-sniffing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wireshark</title>
+      <link>http://localhost:1313/tags/wireshark/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/wireshark/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Compliance</title>
+      <link>http://localhost:1313/tags/compliance/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/compliance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data-Protection</title>
+      <link>http://localhost:1313/tags/data-protection/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/data-protection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial-Regulations</title>
+      <link>http://localhost:1313/tags/financial-regulations/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/financial-regulations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GDPR</title>
+      <link>http://localhost:1313/tags/gdpr/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/gdpr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Healthcare-Compliance</title>
+      <link>http://localhost:1313/tags/healthcare-compliance/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/healthcare-compliance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HIPAA</title>
+      <link>http://localhost:1313/tags/hipaa/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/hipaa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kenya-DPA</title>
+      <link>http://localhost:1313/tags/kenya-dpa/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/kenya-dpa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legal-Frameworks</title>
+      <link>http://localhost:1313/tags/legal-frameworks/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/legal-frameworks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PCI-DSS</title>
+      <link>http://localhost:1313/tags/pci-dss/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/pci-dss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Access-Control</title>
+      <link>http://localhost:1313/tags/access-control/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/access-control/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AWS-CLI</title>
+      <link>http://localhost:1313/tags/aws-cli/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/aws-cli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AWS-IAM</title>
+      <link>http://localhost:1313/tags/aws-iam/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/aws-iam/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud-Security</title>
+      <link>http://localhost:1313/tags/cloud-security/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/cloud-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CloudGoat</title>
+      <link>http://localhost:1313/tags/cloudgoat/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/cloudgoat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Policy-Management</title>
+      <link>http://localhost:1313/tags/policy-management/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/policy-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privilege-Escalation</title>
+      <link>http://localhost:1313/tags/privilege-escalation/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/privilege-escalation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Azure-Firewall</title>
+      <link>http://localhost:1313/tags/azure-firewall/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/azure-firewall/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud-Infrastructure</title>
+      <link>http://localhost:1313/tags/cloud-infrastructure/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/cloud-infrastructure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Network-Security</title>
+      <link>http://localhost:1313/tags/network-security/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/network-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Traffic-Routing</title>
+      <link>http://localhost:1313/tags/traffic-routing/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/traffic-routing/</guid>
       <description></description>
       
     </item>
@@ -27,36 +287,6 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
       <guid>http://localhost:1313/tags/cybersecurity-resilience/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Language-Tools</title>
-      <link>http://localhost:1313/tags/language-tools/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/tags/language-tools/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Open-Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/tags/open-source/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Professional-Communication</title>
-      <link>http://localhost:1313/tags/professional-communication/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/tags/professional-communication/</guid>
       <description></description>
       
     </item>
@@ -87,16 +317,6 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
       <guid>http://localhost:1313/tags/seasonal-cycles/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Workplace-Efficiency</title>
-      <link>http://localhost:1313/tags/workplace-efficiency/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/tags/workplace-efficiency/</guid>
       <description></description>
       
     </item>
@@ -217,16 +437,6 @@
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
       <guid>http://localhost:1313/tags/wireless-security/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Wireshark</title>
-      <link>http://localhost:1313/tags/wireshark/</link>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/tags/wireshark/</guid>
       <description></description>
       
     </item>

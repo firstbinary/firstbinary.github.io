@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARP on J.Mwangi Cybersecurity</title>
+    <link>http://localhost:1313/tags/arp/</link>
+    <description>Recent content in ARP on J.Mwangi Cybersecurity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
+    <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
+    <copyright>&amp;copy; 2025 James Mwangi K</copyright>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/arp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Use Wireshark to View Network Traffic</title>
+      <link>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</guid>
+      <description>Step-by-step tutorial on using Wireshark for network analysis. Capture ICMP packets, compare local and remote traffic behavior, and explore Layer 2/Layer 3 addressing in practical scenarios.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
