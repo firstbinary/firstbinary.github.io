@@ -228,11 +228,13 @@ TCP manages the connecting and disconnecting of the communications channel along
 `The purpose is  CLOSING the connection.`
 #### Challenge
 This simulation provided an example of a web session between a client and a server on a local area network (LAN). The client makes requests to specific services running on the server. The server must be set up to listen on specific ports for a client request. (Hint: Look at Layer 4 in the **OSI Model** tab for port information.)
-**Challenge Questions** 
-what port number is the **Web Server** listening on for the web request?
- Port 1027 
-What port is the **Web Server** listening on for a DNS request? 
- Port 53 
+
+
+**Quiz : What port number is the **Web Server** listening on for the web request?**
+ `Port 1027` 
+ 
+**Quiz : What port is the **Web Server** listening on for a DNS request?** 
+ `Port 53` 
 
  _Below are Images gallery showcasing various visualization in the project_
 ![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.003.jpeg)
