@@ -8,7 +8,11 @@ tags: [Wireshark, network-analysis, ICMP, packet-sniffing, MAC-address, ARP]
 categories: [Network Troubleshooting, Cybersecurity Labs]  
 ---
 ## Use Wireshark to View Network Traffic
-### Topology
+
+[![featured.png](https://i.postimg.cc/HnX3ShsG/featured.png)](https://postimg.cc/wRxhMFmF)
+
+Our task is to utilize wireshark to view Network Traffic flow.
+### Network Topology
 ![](1.jpg)
 ### Objectives
 * **Part 1: Capture and Analyze Local ICMP Data in Wireshark**

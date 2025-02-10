@@ -21,8 +21,8 @@ disableImageOptimization = false
 disableTextInHeader = false
 backgroundImageWidth = 1200
 
- defaultBackgroundImage = "background1.png" # used as default for background images 
- defaultFeaturedImage = "background1.png" # used as default for featured images in all articles
+ defaultBackgroundImage = "background5.jpg" # used as default for background images 
+ defaultFeaturedImage = "background5.jpg" # used as default for featured images in all articles
 
  highlightCurrentMenuArea = true
  smartTOC = true
@@ -43,7 +43,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "background1.png" # used in: hero, and card
+  homepageImage = "background5.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
