@@ -126,12 +126,12 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [firebase]
    apiKey = "AIzaSyBySKFf7x7z30cTm4vm2Oweb0t1OxQNEeo"
-   authDomain: "genius-stream.firebaseapp.com"
-   projectId: "genius-stream"
-   storageBucket: "genius-stream.firebasestorage.app"
-   messagingSenderId: "441934648933"
-   appId: "1:441934648933:web:efb11b7ba4591e8db4188c"
-   measurementId: "G-16H65H8H7R"
+   authDomain = "genius-stream.firebaseapp.com"
+   projectId = "genius-stream"
+   storageBucket = "genius-stream.firebasestorage.app"
+   messagingSenderId ="441934648933"
+   appId ="1:441934648933:web:efb11b7ba4591e8db4188c"
+   measurementId = "G-16H65H8H7R"
 
 [fathomAnalytics]
   # site = "ABC12345"

@@ -177,6 +177,29 @@
   <meta name="theme-color"/>
   
   
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyBySKFf7x7z30cTm4vm2Oweb0t1OxQNEeo",
+      authDomain: "AIzaSyBySKFf7x7z30cTm4vm2Oweb0t1OxQNEeo",
+      projectId: "genius-stream",
+      storageBucket: "genius-stream.firebasestorage.app",
+      messagingSenderId: "441934648933",
+      appId: "1:441934648933:web:efb11b7ba4591e8db4188c",
+      measurementId: "G-16H65H8H7R"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  
+  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
