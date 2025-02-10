@@ -9,7 +9,37 @@
     <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
     <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi K</copyright>
-    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cisco Labs</title>
+      <link>http://localhost:1313/categories/cisco-labs/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/categories/cisco-labs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Network Communication</title>
+      <link>http://localhost:1313/categories/network-communication/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/categories/network-communication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networking Fundamentals</title>
+      <link>http://localhost:1313/categories/networking-fundamentals/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/categories/networking-fundamentals/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Cybersecurity Labs</title>
@@ -157,16 +187,6 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
       <guid>http://localhost:1313/categories/risk-mitigation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cisco Labs</title>
-      <link>http://localhost:1313/categories/cisco-labs/</link>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
-      <guid>http://localhost:1313/categories/cisco-labs/</guid>
       <description></description>
       
     </item>

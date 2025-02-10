@@ -9,15 +9,15 @@
     <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
     <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi K</copyright>
-    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/networking-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/networking-fundamentals/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Visualizing TCP/IP and OSI Models with Cisco Packet Tracer</title>
+      <title>Visualizing TCP/IP and OSI Models In  Action </title>
       <link>http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/</link>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
       <guid>http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/</guid>
-      <description>Step-by-step analysis of web traffic and TCP/IP protocols using Cisco Packet Tracer. Learn how data encapsulation, port assignments, and protocol interactions operate across OSI layers in a simulated network environment.</description>
+      <description>Step-by-step analysis of OSI model and TCP- IP model using Cisco Packet Tracer. Gain practical knowledge of networking fundamentals while visualizing real-world communication processes.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/featured.png" />
     </item>
     
