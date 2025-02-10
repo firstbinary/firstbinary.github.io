@@ -233,17 +233,20 @@ what port number is the **Web Server** listening on for the web request?
  Port 1027 
 What port is the **Web Server** listening on for a DNS request? 
  Port 53 
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.003.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.004.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.005.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.006.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.007.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.008.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.009.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.010.jpeg</u>)
-![](<u>Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.011.jpeg</u>)
+
+ _Below are Images gallery showcasing various visualization in the project_
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.003.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.004.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.005.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.006.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.007.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.008.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.009.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.010.jpeg)
+![](Aspose.Words.6c7fd993-62fc-4b77-afd9-677696d95335.011.jpeg)
 
 **Conclusion**
   
-Through Cisco Packet Tracer's simulation mode, I gained a clear and practical understanding of the TCP/IP and OSI models. By tracing HTTP requests through each layer, the visualization of data encapsulation and transmission offered an insightful, hands-on approach to networking concepts. The structured breakdown of protocols, ports, and data flow visually presented the critical role that each layer plays in ensuring smooth communication across a network. This exercise is good for anyone seeking to grasp fundamental networking principles . 
+
+ I gained a clear and practical understanding of the TCP/IP and OSI models. By tracing HTTP requests through each layer, the visualization of data encapsulation and transmission offered an insightful, hands-on approach to networking concepts. The structured breakdown of protocols, ports, and data flow visually presented the critical role that each layer plays in ensuring smooth communication across a network. This exercise is good for anyone seeking to grasp fundamental networking principles . 
 
