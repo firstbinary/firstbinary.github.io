@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cisco-Packet-Tracer on J.Mwangi Cybersecurity</title>
+    <link>http://localhost:1313/tags/cisco-packet-tracer/</link>
+    <description>Recent content in Cisco-Packet-Tracer on J.Mwangi Cybersecurity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
+    <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
+    <copyright>&amp;copy; 2025 James Mwangi K</copyright>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cisco-packet-tracer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Visualizing TCP/IP and OSI Models with Cisco Packet Tracer</title>
+      <link>http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/</guid>
+      <description>Step-by-step analysis of web traffic and TCP/IP protocols using Cisco Packet Tracer. Learn how data encapsulation, port assignments, and protocol interactions operate across OSI layers in a simulated network environment.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
