@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "J.Mwangi Cybersecurity"
+title = "Bishop's Corner"
 
 [params]
   displayName = "EN"
@@ -11,8 +11,8 @@ title = "J.Mwangi Cybersecurity"
   dateFormat = "2 January 2006"
   logo = "img/bnslogo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "An informative oasis , full of cyber security lab walktrough!"
-  copyright = "&copy; 2025 James Mwangi K" 
+  description = "Dedicated to those in the world who love seeing patterns in chaos"
+  copyright = "&copy; 2025 James Mwangi Kamau" 
 
  [params.author]
    name = "James Mwangi K"
@@ -20,7 +20,7 @@ title = "J.Mwangi Cybersecurity"
    image = "img/bnslogo.png"
    imageQuality = 96
   headline = ''' "Someone who works hard ... Can never beat someone who enjoys himself." - Keisuke Itagaki'''
-  bio = "_Jamesh_ is a master applied mathematician with a passion for simplifying complex concepts. He brings onboard a background in creating mathematical algorithms and creativity to Cybersecurity projects. His approach helps individuals navigate technology adoption and Cybersecurity easily.  In his free time, he reads and listen to good music "
+  bio = "_James Mwangi_ is a master applied mathematician with a passion for simplifying complex concepts. He brings onboard a background in creating mathematical algorithms and creativity to Cybersecurity projects. His approach helps individuals navigate technology adoption and Cybersecurity easily.  In his free time, he reads and listen to good music "
   links = [
      { email = "jamesmwang1@proton.me" },
      { github = "https://github.com/jameshmwangi" },
