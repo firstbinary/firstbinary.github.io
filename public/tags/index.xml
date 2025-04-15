@@ -9,7 +9,67 @@
     <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
     <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi Kamau</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cyber-Security</title>
+      <link>http://localhost:1313/tags/cyber-security/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/cyber-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning-Principles</title>
+      <link>http://localhost:1313/tags/learning-principles/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/learning-principles/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Offensive-Security</title>
+      <link>http://localhost:1313/tags/offensive-security/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/offensive-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Osint</title>
+      <link>http://localhost:1313/tags/osint/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/osint/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shu-Ha-Ri</title>
+      <link>http://localhost:1313/tags/shu-ha-ri/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/shu-ha-ri/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Skill-Development</title>
+      <link>http://localhost:1313/tags/skill-development/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/skill-development/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Network-Simulation</title>
@@ -587,6 +647,56 @@
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       <author>jamesmwang1@proton.me (James Mwangi K)</author>
       <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FLSM</title>
+      <link>http://localhost:1313/tags/flsm/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/flsm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IP-Addressing</title>
+      <link>http://localhost:1313/tags/ip-addressing/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/ip-addressing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Network-Management</title>
+      <link>http://localhost:1313/tags/network-management/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/network-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Subnetting</title>
+      <link>http://localhost:1313/tags/subnetting/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/subnetting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VLSM</title>
+      <link>http://localhost:1313/tags/vlsm/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/tags/vlsm/</guid>
       <description></description>
       
     </item>

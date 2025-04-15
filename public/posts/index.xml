@@ -9,7 +9,17 @@
     <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
     <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi Kamau</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shu Ha Ri Principle in Learning and Mastery</title>
+      <link>http://localhost:1313/posts/shu-ha-ri/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/shu-ha-ri/</guid>
+      <description>Discover how the Shu Ha Ri principle—originating from martial arts—can transform your approach to learning. Understand the stages of structured learning (Shu), creative adaptation (Ha), and mastery through innovation (Ri) with practical insights for domains such as cyber security, malware analysis, and OSINT.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/shu-ha-ri/featured.svg" />
+    </item>
     
     <item>
       <title>Visualizing TCP/IP and OSI Models In  Action </title>
@@ -109,6 +119,16 @@
       <guid>http://localhost:1313/posts/aws-key/</guid>
       <description>Cloud security strategy article series</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-key/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Understanding IP Subnetting: A Comprehensive Guide</title>
+      <link>http://localhost:1313/posts/understanding-ip-subnetting/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <guid>http://localhost:1313/posts/understanding-ip-subnetting/</guid>
+      <description>Master the art of IP subnetting with detailed explanations of subnet calculations, comparison of Fixed Length and Variable Length Subnet Masking, and real-world implementation strategies for network optimization.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/understanding-ip-subnetting/featured.svg" />
     </item>
     
   </channel>
