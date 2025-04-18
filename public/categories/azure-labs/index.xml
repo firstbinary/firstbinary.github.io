@@ -6,8 +6,8 @@
     <description>Recent content in Azure Labs on Bishop&#39;s Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
-    <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
+    <managingEditor>james (James Mwangi Kamau)</managingEditor>
+    <webMaster>james (James Mwangi Kamau)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi Kamau</copyright>
     <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/azure-labs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Configuring Azure Firewall for Network Security</title>
       <link>http://localhost:1313/posts/azurefirewall-james-mwangi/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/azurefirewall-james-mwangi/</guid>
       <description>A technical walkthrough of Azure Firewall implementation, covering route configuration, DNS management, and firewall rule validation. Demonstrates traffic control between subnets and compliance testing using real-world security scenarios.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/azurefirewall-james-mwangi/featured.png" />

@@ -6,8 +6,8 @@
     <description>Recent content in Wireshark on Bishop&#39;s Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
-    <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
+    <managingEditor>james (James Mwangi Kamau)</managingEditor>
+    <webMaster>james (James Mwangi Kamau)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi Kamau</copyright>
     <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wireshark/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Use Wireshark to View Network Traffic</title>
       <link>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</guid>
       <description>Step-by-step tutorial on using Wireshark for network analysis. Capture ICMP packets, compare local and remote traffic behavior, and explore Layer 2/Layer 3 addressing in practical scenarios.</description>
       
@@ -25,7 +25,7 @@
       <title>Network Traffic Analysis</title>
       <link>http://localhost:1313/posts/network-traffic-analysis/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/network-traffic-analysis/</guid>
       <description>Networking article series</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/network-traffic-analysis/featured.png" />

@@ -15,25 +15,25 @@ title = "Bishop's Corner"
   copyright = "&copy; 2025 James Mwangi Kamau" 
 
  [params.author]
-   name = "James Mwangi K"
-   email = "jamesmwang1@proton.me"
+   name = "James Mwangi Kamau"
+   email = "jameshmwangiy@gmail.com"
    image = "img/bnslogo.png"
    imageQuality = 96
   headline = '''✦✦♔❀════════════════════════❀♔✦✦
 
 
-               Technology is
-               evolving rapidly, 
-               and so are the threats.
-               The only way to stay ahead
-               is to never stop learning.                       
-                 – Mikko Hyppönen
+                Technology is
+                evolving rapidly, 
+                and so are the threats.
+                The only way to stay ahead
+                is to never stop learning.                       
+                   – Mikko Hyppönen
 
       
 ✦✦♔❀════════════════════════❀♔✦✦ '''
   bio = "_James Mwangi_ is a master applied mathematician with a passion for simplifying complex concepts. He brings onboard a background in creating mathematical algorithms and creativity to Cybersecurity projects. His approach helps individuals navigate technology adoption and Cybersecurity easily.  In his free time, he reads and listen to good music "
   links = [
-     { email = "jamesmwang1@proton.me" },
+     { email = "jameshmwangiy@gmal.com" },
      { github = "https://github.com/jameshmwangi" },
      { linkedin = "https://www.linkedin.com/jamesh-mwangi" },     
      { twitter = "https://twitter.com/jameshqater" },

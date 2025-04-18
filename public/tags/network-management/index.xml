@@ -6,8 +6,8 @@
     <description>Recent content in Network-Management on Bishop&#39;s Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
-    <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
+    <managingEditor>james (James Mwangi Kamau)</managingEditor>
+    <webMaster>james (James Mwangi Kamau)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi Kamau</copyright>
     <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/network-management/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Understanding IP Subnetting: A Comprehensive Guide</title>
       <link>http://localhost:1313/posts/understanding-ip-subnetting/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/understanding-ip-subnetting/</guid>
       <description>Master the art of IP subnetting with detailed explanations of subnet calculations, comparison of Fixed Length and Variable Length Subnet Masking, and real-world implementation strategies for network optimization.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/understanding-ip-subnetting/featured.svg" />

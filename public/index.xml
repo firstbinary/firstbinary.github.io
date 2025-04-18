@@ -6,8 +6,8 @@
     <description>Recent content on Bishop&#39;s Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>jamesmwang1@proton.me (James Mwangi K)</managingEditor>
-    <webMaster>jamesmwang1@proton.me (James Mwangi K)</webMaster>
+    <managingEditor>james (James Mwangi Kamau)</managingEditor>
+    <webMaster>james (James Mwangi Kamau)</webMaster>
     <copyright>&amp;copy; 2025 James Mwangi Kamau</copyright>
     <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Shu Ha Ri Principle in Learning and Mastery</title>
       <link>http://localhost:1313/posts/shu-ha-ri/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/shu-ha-ri/</guid>
       <description>Discover how the Shu Ha Ri principle—originating from martial arts—can transform your approach to learning. Understand the stages of structured learning (Shu), creative adaptation (Ha), and mastery through innovation (Ri) with practical insights for domains such as cyber security, malware analysis, and OSINT.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/shu-ha-ri/featured.svg" />
@@ -25,7 +25,7 @@
       <title>Visualizing TCP/IP and OSI Models In  Action </title>
       <link>http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/</guid>
       <description>Step-by-step analysis of OSI model and TCP- IP model using Cisco Packet Tracer. Gain practical knowledge of networking fundamentals while visualizing real-world communication processes.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tcp-ip-and-osi-models-in-action/featured.png" />
@@ -35,7 +35,7 @@
       <title>Use Wireshark to View Network Traffic</title>
       <link>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/wireshark-to-view-network-traffic/use_wireshark_to_view_network_traffic/</guid>
       <description>Step-by-step tutorial on using Wireshark for network analysis. Capture ICMP packets, compare local and remote traffic behavior, and explore Layer 2/Layer 3 addressing in practical scenarios.</description>
       
@@ -45,7 +45,7 @@
       <title>Navigating Global Data Protection Compliance: Frameworks, Regulations, and Implementation Strategies</title>
       <link>http://localhost:1313/posts/data-protection/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/data-protection/</guid>
       <description>Explore essential data protection regulations including GDPR, HIPAA, PCI DSS, and Kenya&amp;rsquo;s Data Protection Act. Learn compliance strategies, sector-specific requirements, and legal considerations for penetration testing and audits.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/data-protection/featured.png" />
@@ -55,7 +55,7 @@
       <title>IAM Privilege Escalation via Policy Rollback</title>
       <link>http://localhost:1313/posts/iam-priviledge-escallation/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/iam-priviledge-escallation/</guid>
       <description>Explore how attackers exploit IAM policy rollbacks to gain administrative access in AWS environments. This CloudGoat scenario demonstrates privilege escalation techniques, policy version analysis, and critical cloud security hardening practices.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/iam-priviledge-escallation/featured.png" />
@@ -65,7 +65,7 @@
       <title>Configuring Azure Firewall for Network Security</title>
       <link>http://localhost:1313/posts/azurefirewall-james-mwangi/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/azurefirewall-james-mwangi/</guid>
       <description>A technical walkthrough of Azure Firewall implementation, covering route configuration, DNS management, and firewall rule validation. Demonstrates traffic control between subnets and compliance testing using real-world security scenarios.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/azurefirewall-james-mwangi/featured.png" />
@@ -75,7 +75,7 @@
       <title>Master the Quartely Clock</title>
       <link>http://localhost:1313/posts/quarterly-clock/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/quarterly-clock/</guid>
       <description>Learn how to apply seasonal planning principles—inspired by natural cycles and timeless wisdom—to fortify your cybersecurity operations. By breaking the year into actionable quarters, you can proactively address vulnerabilities, allocate resources strategically, and ensure resilience against both predictable and unforeseen threats.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/quarterly-clock/featured.png" />
@@ -85,7 +85,7 @@
       <title>Network Traffic Analysis</title>
       <link>http://localhost:1313/posts/network-traffic-analysis/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/network-traffic-analysis/</guid>
       <description>Networking article series</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/network-traffic-analysis/featured.png" />
@@ -95,7 +95,7 @@
       <title>WLAN Configuration</title>
       <link>http://localhost:1313/posts/wlan-configuration/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/wlan-configuration/</guid>
       <description>Networking configuration article series</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wlan-configuration/featured.png" />
@@ -105,7 +105,7 @@
       <title>Flaws.cloud Common AWS Vulnerabilities</title>
       <link>http://localhost:1313/posts/flawsaws/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/flawsaws/</guid>
       <description>Cloud security strategy article series</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flawsaws/featured.png" />
@@ -115,7 +115,7 @@
       <title>AWS Key Management Implementation</title>
       <link>http://localhost:1313/posts/aws-key/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/aws-key/</guid>
       <description>Cloud security strategy article series</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-key/featured.jpg" />
@@ -125,7 +125,7 @@
       <title>Understanding IP Subnetting: A Comprehensive Guide</title>
       <link>http://localhost:1313/posts/understanding-ip-subnetting/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <author>jamesmwang1@proton.me (James Mwangi K)</author>
+      <author>james (James Mwangi Kamau)</author>
       <guid>http://localhost:1313/posts/understanding-ip-subnetting/</guid>
       <description>Master the art of IP subnetting with detailed explanations of subnet calculations, comparison of Fixed Length and Variable Length Subnet Masking, and real-world implementation strategies for network optimization.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/understanding-ip-subnetting/featured.svg" />
